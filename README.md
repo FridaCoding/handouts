@@ -29,6 +29,5 @@ to this "handouts" folder. The result should be a subdirectory called
 [CONTRIBUTING.md]: CONTRIBUTING.md
 
 ##Collaborators
-
 - Frida Bahja, UCF Rosen College @ University of Central Florida 
-- Christina Estela Brown, UCF
+- Christina Estela Brown (UCF Rosen College)
