@@ -30,5 +30,5 @@ to this "handouts" folder. The result should be a subdirectory called
 
 ##Collaborators
 
-- Frida Bahja
+- Frida Bahja, UCF Rosen College @ University of Central Florida 
 - Christina Estela Brown, UCF
